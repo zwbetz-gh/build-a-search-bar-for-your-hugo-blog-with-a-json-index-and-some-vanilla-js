@@ -8,5 +8,5 @@ Checkout the [Blog Search Bar](/blog)
 
 ## Sister Links
 
-- Tutorial: <https://zwbetz.com/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/>
-- GitHub: <https://github.com/zwbetz-gh/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js>
+- **Tutorial:** <https://zwbetz.com/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/>
+- **GitHub:** <https://github.com/zwbetz-gh/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js>
