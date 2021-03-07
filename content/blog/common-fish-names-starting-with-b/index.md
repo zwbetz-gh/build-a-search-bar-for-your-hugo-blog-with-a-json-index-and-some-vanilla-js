@@ -1,0 +1,121 @@
+---
+title: "Common Fish Names Starting With B"
+date: 2021-03-06T21:43:59-06:00
+draft: false
+---
+
+- Baikal oilfish
+- Bala shark
+- Ballan wrasse
+- Bamboo shark
+- Banded killifish
+- Bandfish
+- Banjo
+- Bangus
+- Banjo catfish
+- Barb
+- Barbel
+- Barbeled dragonfish
+- Barbeled houndshark
+- Barbel-less catfish
+- Barfish
+- Barracuda
+- Barracudina
+- Barramundi
+- Barred danio
+- Barreleye
+- Basking shark
+- Bass
+- Basslet
+- Batfish
+- Bat ray
+- Beachsalmon
+- Beaked salmon
+- Beaked sandfish
+- Beardfish
+- Beluga sturgeon
+- Bengal danio
+- Betta
+- Bichir
+- Bicolor goat fish
+- Bigeye
+- Bigeye squaretail
+- Bighead carp
+- Bigmouth buffalo
+- Bigscale
+- Bigscale pomfret
+- Billfish
+- Bitterling
+- Black angelfish
+- Black bass
+- Black dragonfish
+- Blackchin
+- Blackfin Tuna
+- Blackfish
+- Black neon tetra
+- Blacktip reef shark
+- Black mackerel
+- Black scalyfin
+- Black sea bass
+- Black scabbardfish
+- Black swallower
+- Black tetra
+- Black triggerfish
+- Bleak
+- Blenny
+- Blind goby
+- Blind shark
+- Blobfish
+- Blowfish
+- Blue catfish
+- Blue danio
+- Blue-redstripe danio
+- Blue eye trevalla
+- Bluefin tuna
+- Bluefish
+- Bluegill
+- Blue gourami
+- Blue shark
+- Blue triggerfish
+- Blue whiting
+- Bluntnose knifefish
+- Bluntnose minnow
+- Boafish
+- Boarfish
+- Bobtail snipe eel
+- Bocaccio
+- Boga
+- Bombay duck
+- Bonefish
+- Bonito
+- Bonnethead shark
+- Bonnetmouth
+- Bonytail
+- Bronze corydoras
+- Bonytongue
+- Bowfin
+- Boxfish
+- Bramble shark
+- Bream
+- Brill
+- Bristlemouth
+- Bristlenose catfish
+- Broadband dogfish
+- Brook lamprey
+- Brook stickleback
+- Brook trout
+- Brotula
+- Brown trout
+- Buffalo fish
+- Bullhead
+- Bullhead shark
+- Bull shark
+- Bull trout
+- Burbot
+- Bumblebee goby
+- Buri
+- Burma danio
+- Burrowing goby
+- Butterfish
+- Butterfly ray
+- Butterflyfish

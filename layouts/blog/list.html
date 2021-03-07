@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ if site.Params.search }}
+  <input
+    id="search"
+    class="form-control"
+    type="text"
+    aria-label="Search by title, content, or publish date"
+  />
+  {{ end }}
+  <p id="count">
+    Count: {{ len .Pages }}
+  </p>
+  <ul id="list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+    <li>
+      <span>{{ .PublishDate.Format "2006-01-02" }}</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

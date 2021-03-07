@@ -1,0 +1,17 @@
+{{- $blog := slice -}}
+
+{{- range where site.RegularPages.ByPublishDate.Reverse "Section" "==" "blog" -}}
+	{{- $item := dict
+    "Title" .Title
+    "PublishDateFormatted" (.PublishDate.Format "2006-01-02")
+    "RelPermalink" .RelPermalink
+    "PlainContent" .Plain -}}
+
+	{{- $blog = $blog | append $item -}}
+{{- end -}}
+
+{{- $object := dict "blog" $blog -}}
+
+{{- $jsonifyOptions := dict "indent" "  " -}}
+
+{{- $object | jsonify $jsonifyOptions -}}

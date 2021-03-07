@@ -1,0 +1,12 @@
+baseURL: http://example.org
+languageCode: en-us
+title: Build a Search Bar for Your Hugo Blog With a JSON Index and Some Vanilla JS
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  search: true
