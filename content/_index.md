@@ -4,9 +4,9 @@ date: 2021-03-06T15:32:21-06:00
 draft: false
 ---
 
-See the [Blog Search Bar](/blog).
+Checkout the [Blog Search Bar](/blog)
 
-Sister links:
+## Sister Links
 
 - Tutorial: <https://zwbetz.com/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/>
 - GitHub: <https://github.com/zwbetz-gh/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js>
