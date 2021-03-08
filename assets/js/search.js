@@ -35,7 +35,10 @@
         console.log(
           `fetchJson took ${getDuration(startTime, performance.now())} ms`
         );
-      });
+      })
+      .catch((error) =>
+        console.error(`Failed to fetch JSON index: ${error.message}`)
+      );
   };
 
   const filterList = () => {
