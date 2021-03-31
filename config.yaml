@@ -11,3 +11,7 @@ outputs:
 params:
   search: true
   search_minify: false
+
+disableKinds:
+  - taxonomy
+  - term
