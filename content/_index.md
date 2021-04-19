@@ -4,7 +4,7 @@ date: 2021-03-06T15:32:21-06:00
 draft: false
 ---
 
-Checkout the [Blog Search Bar](/blog)
+You likely came here for the [Blog Search Bar](/blog)
 
 ## Sister Links
 
